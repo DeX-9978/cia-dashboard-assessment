@@ -32,7 +32,7 @@ The assessment required the creation of an interactive and insightful Excel dash
 
 ---
 ## 📁 Files
-- [`CIA Excel Assessment - Dashboard.xlsx`](./CIAExcelAssessment-Dashboard.xlsx) — the main dashboard workbook, containing the dashboard and the dataset. 
+- [`CIA Excel Assessment - Dashboard.xlsx`](./CIA%20Excel%20Assessment%20-%20Dashboard.xlsx) — the main dashboard workbook, containing the dashboard and the dataset. 
 
 ---
 ## 🔒 Notes
