@@ -31,6 +31,10 @@ The assessment required the creation of an interactive and insightful Excel dash
 - Importance of clean, minimal, and informative design.
 
 ---
+## 📁 Files
+- CIA Excel Assessment - Dashboard.xlsx — the main dashboard workbook, containing the dashboard and the dataset.
+
+---
 ## 🔒 Notes
 This dashboard was built solely based on the assessment instructions and does not contain any confidential or proprietary company data. All visualizations and interpretations are my own.
 ---
